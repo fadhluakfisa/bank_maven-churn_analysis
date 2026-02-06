@@ -16,6 +16,7 @@ The source of this project is from mavenanalytics
 2. **Saving analysis**: Identifying the bank balance based on the customers'income by salary segmentation.
 3. **Credit active**: Identifying how many customers are active in using their credit cards.
 4. **Churn analysis**: Identifying how many customers exited from the bank based on the segmentation.
+5. **Customers satisfaction**: Identifying how many products customers are willing to pay for with their salary
 
 ## How to use:
 1. Open the script **01_create_database.sql**
