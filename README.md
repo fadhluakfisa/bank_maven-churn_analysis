@@ -9,14 +9,10 @@ The source of this project is from mavenanalytics
 - **bank_churn.pbix**: The dashboard to visualize the data.
 
 ## Key Insights:
-1. **Country Impact**: This analyzes the impact of the tax rate in every country on churn rate and credit score.
-    - France: Tax rate 30%
-    - Germany: Tax rate 26%
-    - Spain: Tax rate 19%
-2. **Saving analysis**: Identifying the bank balance based on the customers'income by salary segmentation.
-3. **Credit active**: Identifying how many customers are active in using their credit cards.
-4. **Churn analysis**: Identifying how many customers exited from the bank based on the segmentation.
-5. **Customers satisfaction**: Identifying how many products customers are willing to pay for with their salary.
+1. **Saving analysis**: Identifying the bank balance based on the customers'income by salary segmentation.
+2. **Credit active**: Identifying how many customers are active in using their credit cards.
+3. **Churn analysis**: Identifying how many customers exited from the bank based on the segmentation.
+4. **Customer satisfaction**: Identifying how many products customers are willing to pay for with their salary.
 
 ## How to use:
 1. Open the script **01_create_database.sql**
